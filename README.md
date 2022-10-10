@@ -10,7 +10,7 @@ Saya suka ngoding, tapi ngoding nya berantakan & lawak banget
 </div>
 Skills: PYTHON / HTML / CSS / JS
 
-- 🔭 I’m currently working on [API BROZ](https://api.broz.herokuapp.com)
+- 🔭 I’m currently working on [API BROZ](https://codecolor.com)
 - 🌱 I’m currently learning Go-lang, JavaScript 
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing 
